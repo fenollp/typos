@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["Pierre Fenoll <pierrefenoll@gmail.com>"]
 
 [dependencies]
-bk-tree = "0.1.6"
+bk-tree = "^0.1.6"
