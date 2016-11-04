@@ -5,3 +5,4 @@ authors = ["Pierre Fenoll <pierrefenoll@gmail.com>"]
 
 [dependencies]
 bk-tree = "^0.1.6"
+nom = "^1.2.4"
